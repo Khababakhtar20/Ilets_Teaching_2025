@@ -92,7 +92,7 @@
         <tr>
              <td align="center"><b>04</b></td>
              <td align="center"><b>Thursday</b><br>24-Jun-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><a href="https://www.facebook.com/share/v/15QZWT4GzA/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
              <td align="center"><code>IELTS Writing Overview</code></td>
              <td align="center">Asia Chaudhary</td>
