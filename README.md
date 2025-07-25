@@ -86,7 +86,7 @@
              <td align="center"><b>Wednesday</b><br>23-Jun-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/18rJct7Cde">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>IELTS Reading Overview</code></td>
+             <td align="center"><code>IELTS Listening practice </code></td>
              <td align="center">Bushra Iqbal</td>
         </tr>
         <tr>
@@ -94,7 +94,7 @@
              <td align="center"><b>Thursday</b><br>24-Jun-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/15QZWT4GzA/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>IELTS Writing Overview</code></td>
+             <td align="center"><code>IELTS Listening practice day 1</code></td>
              <td align="center">Asia Chaudhary</td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@
              <td align="center"><b>Friday</b><br>25-Jun-2025</td>
              <td align="center"><a href="#">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>IELTS Speaking Overview</code></td>
+             <td align="center"><code>IELTS Listening mocktest</code></td>
              <td align="center">Khabab Akhtar</td>
         </tr>
     </tbody>
