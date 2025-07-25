@@ -68,30 +68,30 @@
         <tr>
              <td align="center"><b>01</b></td>
              <td align="center"><b>Monday</b><br>21-July-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><a href="https://www.facebook.com/share/v/1DpznztJgC/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
              <td align="center"><code>Introduction to IELTS</code></td>
-             <td align="center">Khabab Akhtar</td>
+             <td align="center">Bushra Iqbal</td>
         </tr>
         <tr>
              <td align="center"><b>02</b></td>
              <td align="center"><b>Tuesday</b><br>22-Jun-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><a href="https://www.facebook.com/share/v/1Yk1uaMNWz/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
              <td align="center"><code>IELTS Listening Overview</code></td>
-             <td align="center">Gul Ahmad</td>
+             <td align="center">Asia Chaudhary</td>
         </tr>
         <tr>
              <td align="center"><b>03</b></td>
-             <td align="center"><b>Wednesday</b><br>25-Jun-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><b>Wednesday</b><br>23-Jun-2025</td>
+             <td align="center"><a href="https://www.facebook.com/share/v/18rJct7Cde">/</a></td>
              <td align="center"><a href="#">Slides</a></td>
              <td align="center"><code>IELTS Reading Overview</code></td>
-             <td align="center">Aqsa Abbasi</td>
+             <td align="center">Bushra Iqbal</td>
         </tr>
         <tr>
              <td align="center"><b>04</b></td>
-             <td align="center"><b>Thursday</b><br>26-Jun-2025</td>
+             <td align="center"><b>Thursday</b><br>24-Jun-2025</td>
              <td align="center"><a href="#">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
              <td align="center"><code>IELTS Writing Overview</code></td>
@@ -99,11 +99,11 @@
         </tr>
         <tr>
              <td align="center"><b>05</b></td>
-             <td align="center"><b>Friday</b><br>27-Jun-2025</td>
+             <td align="center"><b>Friday</b><br>25-Jun-2025</td>
              <td align="center"><a href="#">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
              <td align="center"><code>IELTS Speaking Overview</code></td>
-             <td align="center">Bushra Iqbal</td>
+             <td align="center">Khabab Akhtar</td>
         </tr>
     </tbody>
 </table>
