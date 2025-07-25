@@ -84,7 +84,7 @@
         <tr>
              <td align="center"><b>03</b></td>
              <td align="center"><b>Wednesday</b><br>23-Jun-2025</td>
-             <td align="center"><a href="https://www.facebook.com/share/v/18rJct7Cde">/</a></td>
+             <td align="center"><a href="https://www.facebook.com/share/v/18rJct7Cde">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
              <td align="center"><code>IELTS Reading Overview</code></td>
              <td align="center">Bushra Iqbal</td>
