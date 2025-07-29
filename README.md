@@ -120,11 +120,11 @@
      </tr>  
         <tr>
              <td align="center"><b>01</b></td>
-             <td align="center"><b>Monday</b><br>30-Jun-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><b>Monday</b><br>29-Jun-2025</td>
+             <td align="center"><a href="https://www.facebook.com/share/v/1Ac5mHnqV7/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Listening Practice 1</code></td>
-             <td align="center">Khabab Akhtar</td>
+             <td align="center"><code>Reading Practice 1</code></td>
+             <td align="center">Aqsa Abbasi</td>
         </tr>
         <tr>
              <td align="center"><b>02</b></td>
