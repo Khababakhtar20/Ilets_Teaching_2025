@@ -129,7 +129,7 @@
         <tr>
              <td align="center"><b>02</b></td>
              <td align="center"><b>Tuesday</b><br>1-Jul-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><a href="https://www.facebook.com/share/v/1P9ZwZkmok/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
              <td align="center"><code>Reading Practice 1</code></td>
              <td align="center">Gul Ahmad</td>
@@ -140,7 +140,7 @@
              <td align="center"><a href="#">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
              <td align="center"><code>Writing Practice 1</code></td>
-             <td align="center">Aqsa Abbasi</td>
+             <td align="center">Asia Chaudhary</td>
         </tr>
         <tr>
              <td align="center"><b>04</b></td>
