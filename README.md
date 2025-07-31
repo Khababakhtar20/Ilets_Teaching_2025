@@ -131,7 +131,7 @@
              <td align="center"><b>Tuesday</b><br>1-Jul-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/1P9ZwZkmok/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Reading Practice 1</code></td>
+             <td align="center"><code>Reading Practice 2</code></td>
              <td align="center">Gul Ahmad</td>
         </tr>
         <tr>
@@ -139,7 +139,7 @@
              <td align="center"><b>Wednesday</b><br>30-July-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/1YdN6KeDNr/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Reading Practice 1</code></td>
+             <td align="center"><code>Reading Practice 3</code></td>
              <td align="center">Asia Chaudhary</td>
         </tr>
         <tr>
@@ -147,14 +147,14 @@
              <td align="center"><b>Thursday</b><br>31-July-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/16rz8pZXS6/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Reading Practice 1</code></td>
+             <td align="center"><code>Reading Practice 4</code></td>
              <td align="center">Asia Chaudhary</td>
         </tr>
              <td align="center"><b>04</b></td>
              <td align="center"><b>Friday</b><br>1-Aug-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/16rz8pZXS6/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Reading Practice 1</code></td>
+             <td align="center"><code>Reading Practice 5</code></td>
              <td align="center">Khabab Akhtar</td>
         </tr>
     </tbody>
