@@ -173,10 +173,10 @@
         <tr>
              <td align="center"><b>01</b></td>
              <td align="center"><b>Monday</b><br>7-Jul-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/725905280261724/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Listening Practice 2</code></td>
-             <td align="center">Bushra Iqbal</td>
+             <td align="center"><code>Writing Practice 1</code></td>
+             <td align="center">Asia Chaudhary</td>
         </tr>
         <tr>
              <td align="center"><b>02</b></td>
