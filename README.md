@@ -183,7 +183,7 @@
              <td align="center"><b>Tuesday</b><br>8-Jul-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/19RMPorx79/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code></code></td>
+             <td align="center"><code>Writing Practice 2</code></td>
              <td align="center">Aqsa Abbasi</td>
         </tr>
         <tr>
