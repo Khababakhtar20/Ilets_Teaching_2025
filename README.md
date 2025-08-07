@@ -189,26 +189,26 @@
         <tr>
              <td align="center"><b>03</b></td>
              <td align="center"><b>Wednesday</b><br>9-Jul-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><a href="https://www.facebook.com/share/v/1MgkVdEuJa/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Writing Practice 2</code></td>
-             <td align="center">Gul Ahmad</td>
+             <td align="center"><code>Writing Practice 3</code></td>
+             <td align="center">Aqsa Abbasi</td>
         </tr>
         <tr>
              <td align="center"><b>04</b></td>
              <td align="center"><b>Thursday</b><br>10-Jul-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1182003687022039/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Speaking Practice 2</code></td>
-             <td align="center">Aqsa Abbasi</td>
+             <td align="center"><code>Writing Practice 4</code></td>
+             <td align="center">Asia Chaudhary</td>
         </tr>
         <tr>
              <td align="center"><b>05</b></td>
              <td align="center"><b>Friday</b><br>11-Jul-2025</td>
              <td align="center"><a href="#">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Mock Test & Feedback</code></td>
-             <td align="center">Asia Chaudhary</td>
+             <td align="center"><code>Writing Practice 4</code></td>
+             <td align="center">Khabab Akhtar</td>
         </tr>
     </tbody>
 </table>
