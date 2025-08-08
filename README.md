@@ -205,7 +205,7 @@
         <tr>
              <td align="center"><b>05</b></td>
              <td align="center"><b>Friday</b><br>11-Jul-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><a href="https://www.facebook.com/share/v/16nEyHER88/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
              <td align="center"><code>Writing Practice 4</code></td>
              <td align="center">Khabab Akhtar</td>
