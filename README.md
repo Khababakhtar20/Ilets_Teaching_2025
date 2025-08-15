@@ -228,7 +228,7 @@
              <td align="center"><b>Monday</b><br>14-Jul-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/1GKZdu7ec5/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Listening Practice 3</code></td>
+             <td align="center"><code>Speaking Practice 1 </code></td>
              <td align="center">Aqsa Abbasi</td>
         </tr>
         <tr>
@@ -236,7 +236,7 @@
              <td align="center"><b>Tuesday</b><br>15-Jul-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/1Cfi8G4bT6/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Reading Practice 3</code></td>
+             <td align="center"><code>Speaking Practice 2</code></td>
              <td align="center">Asia Chaudhary</td>
         </tr>
         <tr>
@@ -244,7 +244,7 @@
              <td align="center"><b>Wednesday</b><br>16-Jul-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/16MYsRKgbH/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Writing Practice 3</code></td>
+             <td align="center"><code>Speaking Practice 3</code></td>
              <td align="center">Gul Ahmad</td>
         </tr>
         <tr>
@@ -252,72 +252,17 @@
              <td align="center"><b>Thursday</b><br>17-Jul-2025</td>
              <td align="center"><a href="https://www.facebook.com/share/v/15yVaj4pKx/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Speaking Practice 3</code></td>
+             <td align="center"><code>Speaking Practice 4</code></td>
              <td align="center">Asia Chaudhary</td>
         </tr>
         <tr>
              <td align="center"><b>05</b></td>
              <td align="center"><b>Friday</b><br>18-Jul-2025</td>
-             <td align="center"><a href="#">link</a></td>
+             <td align="center"><a href="https://www.facebook.com/share/v/16iqmPNmo2/">link</a></td>
              <td align="center"><a href="#">Slides</a></td>
-             <td align="center"><code>Scholarship Application Guidance</code></td>
+             <td align="center"><code>Speaking Practice 5</code></td>
              <td align="center">Khabab Akhtar</td>
         </tr>
     </tbody>
-</table>
-
-# Week 05
-<table>
-  <thead>
-    <tr>
-      <th colspan="2">Days</th>
-      <th>Video Links</th>
-      <th>Slides/Materials</th>
-      <th>Topics</th>
-      <th>Trainer Name</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>01</b></td>
-      <td align="center"><b>Monday</b><br>21-Jul-2025</td>
-      <td align="center"><a href="#">link</a></td>
-      <td align="center"><a href="#">Slides</a></td>
-      <td align="center"><code>Scholarship Essay Writing</code></td>
-      <td align="center">Bushra Iqbal</td>
-    </tr>
-    <tr>
-      <td align="center"><b>02</b></td>
-      <td align="center"><b>Tuesday</b><br>22-Jul-2025</td>
-      <td align="center"><a href="#">link</a></td>
-      <td align="center"><a href="#">Slides</a></td>
-      <td align="center"><code>Interview Preparation</code></td>
-      <td align="center">Khabab Akhtar</td>
-    </tr>
-    <tr>
-      <td align="center"><b>03</b></td>
-      <td align="center"><b>Wednesday</b><br>23-Jul-2025</td>
-      <td align="center"><a href="#">link</a></td>
-      <td align="center"><a href="#">Slides</a></td>
-      <td align="center"><code>Mock Interviews</code></td>
-      <td align="center">Gul Ahmad</td>
-    </tr>
-    <tr>
-      <td align="center"><b>04</b></td>
-      <td align="center"><b>Thursday</b><br>24-Jul-2025</td>
-      <td align="center"><a href="#">link</a></td>
-      <td align="center"><a href="#">Slides</a></td>
-      <td align="center"><code>Final Q&A and Feedback</code></td>
-      <td align="center">Aqsa Abbasi</td>
-    </tr>
-    <tr>
-      <td align="center"><b>05</b></td>
-      <td align="center"><b>Friday</b><br>25-Jul-2025</td>
-      <td align="center"><a href="#">link</a></td>
-      <td align="center"><a href="#">Slides</a></td>
-      <td align="center"><code>Course Wrap-up & Next Steps</code></td>
-      <td align="center">Asia Chaudhary</td>
-    </tr>
-  </tbody>
 </table>
 </div>
